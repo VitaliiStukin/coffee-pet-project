@@ -8,3 +8,5 @@
 
 ### In this pet-project i analyzed dataset containing detailed records of coffee sales from a vending machine. 
 ### Dashboard has info about Sales by Payment Type, Boxplot for Sales by Month by Type, Heatmap for Sales by Month for year-round (>0 every month) and Scatterplot for Price vs Orders.
+
+### Link for original dataset on Kaggle: https://www.kaggle.com/datasets/ihelon/coffee-sales
